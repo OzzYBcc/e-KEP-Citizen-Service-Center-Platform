@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ergKEP", "ergKEP\ergKEP.csproj", "{A20DBA04-4443-475A-AA1E-1DC80D053E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A20DBA04-4443-475A-AA1E-1DC80D053E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20DBA04-4443-475A-AA1E-1DC80D053E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20DBA04-4443-475A-AA1E-1DC80D053E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20DBA04-4443-475A-AA1E-1DC80D053E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F48E7AB0-58EE-4A24-ACE0-687EA2C27E33}
+	EndGlobalSection
+EndGlobal
